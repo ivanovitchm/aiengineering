@@ -1,0 +1,31 @@
+lap,driver_id,text,topic_ref,urgency_ref,sentiment_ref
+1,27,"Good start, good start. Held position into turn one, no contact.",traffic,1,calm
+2,88,"The guy ahead is weaving on the straight, he's going to put me in the wall.",traffic,4,angry
+4,27,"Fronts feel a bit cold still, give me two laps before we talk about the pace.",tyres,2,calm
+6,88,"Copy that, lift and coast into turn 12, understood.",strategy,1,calm
+8,27,"Grip is fine, balance is fine, I can push if you need me to.",tyres,1,calm
+10,88,There is a smell of oil in the cockpit. Is everything okay with the engine?,engine,3,calm
+12,27,"He's just sitting there in the DRS train, I'm losing two tenths a lap behind him.",traffic,3,frustrated
+14,88,Are we doing the one stop or the two stop? I need to know how hard I can go.,strategy,2,calm
+16,27,"Few drops on the visor at turn four. Not raining yet, but it's coming.",weather,2,calm
+18,88,"Rear temps are through the roof, I'm sliding everywhere in the last sector.",tyres,3,frustrated
+20,27,"Box now? Box now? Guys, talk to me, the window is closing!",strategy,4,frustrated
+21,88,"Losing power! Losing power on the straight, something is wrong with the engine!",engine,5,angry
+23,27,"Track is drying on the racing line. Inters won't last, we need slicks soon.",weather,3,calm
+25,88,"Great strategy, guys. Really. Brilliant. Lost three places in that stop.",strategy,3,angry
+27,27,"Blue flags, blue flags! He's not moving over, he's costing me a second a lap.",traffic,4,angry
+29,88,Fronts are graining badly. I can't turn the car in the slow corners.,tyres,3,frustrated
+31,27,Water temperature warning on the dash. What do you want me to do?,engine,4,calm
+33,88,"It's getting darker over the mountain, the rain will hit the back straight first.",weather,2,calm
+35,27,The gap to the car behind is 1.4 seconds and I'm holding it. Tell me the plan.,strategy,2,calm
+37,88,"That was not a racing incident, he turned in on me! Are you seeing this?",traffic,4,angry
+41,27,Rear left is gone. No grip in the last sector and the car behind is right on me. What are we doing?,tyres,4,frustrated
+43,88,"Engine is fine now, temperatures back to normal, I can push again.",engine,1,calm
+45,27,"If it rains in the next five laps the softs are dead. Tell me now, not later.",weather,4,frustrated
+47,88,"Undercut him, undercut him! He's slow in sector two, I can jump him if we box now.",strategy,4,calm
+49,27,"Lapped car ahead is holding me up in the twisty bit, I'll get him on the straight.",traffic,2,calm
+51,88,"Vibration from the rear, getting worse every lap. Is it the tyre or the gearbox?",tyres,3,calm
+53,27,Fuel? Am I okay on fuel? The number on the dash keeps going down.,strategy,3,calm
+55,88,"Rain is here, full wets, it's a river at turn nine, I'm coming in!",weather,5,frustrated
+56,27,"Two laps to go, tyres are hanging on, the car behind is not close enough. Let me bring it home.",tyres,2,calm
+57,88,"Yes! Yes! What a race. Thank you guys, amazing strategy in the end.",strategy,1,calm

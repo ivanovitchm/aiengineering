@@ -1,0 +1,201 @@
+lap,driver_id,text,topic_ref,urgency_ref,sentiment_ref
+1,27,"The car ahead is 2.8 seconds away and slow in turn three, I can get him.",traffic,2,calm
+1,88,"Losing power on the straights, something is not right with the engine.",engine,5,frustrated
+1,88,"Is the rain coming or not? Give me a straight answer, I'm on slicks!",weather,4,angry
+2,27,"He brake tested me into turn one! Report him, that was dangerous.",traffic,4,angry
+2,27,"I have a misfire at low revs out of sector two, it's costing me eight tenths.",engine,3,frustrated
+2,88,"Rain is stopping, the inters will overheat in eight laps.",weather,3,calm
+3,27,"Lapped car in turn nine held me up, I'll get him on the straight.",traffic,2,calm
+3,88,"If the safety car comes out we box, yes? Confirm.",strategy,3,calm
+4,27,What's the plan? Do I hold the gap at 1.2 seconds or do I attack?,strategy,2,calm
+4,27,Still four laps on these? You're joking. There's nothing left in them.,tyres,4,angry
+4,88,"Engine mode is wrong, I told you before the race, it's cutting in the chicane.",engine,4,angry
+4,88,"Temperatures are back to normal after the lift and coast, can I push again?",engine,1,calm
+5,27,How many laps to go? I'm managing the hards but I need the number.,strategy,2,calm
+5,27,"Debris on the racing line at turn one, big piece, watch out for the other car.",traffic,3,calm
+5,27,"These tyres are a joke today, I can't even keep it on the track in sector two.",tyres,4,angry
+5,27,"The engine just died and came back, I lost eight tenths in the process.",engine,4,frustrated
+5,88,"Wind has picked up on the straight, the car is snapping in the last sector.",weather,2,calm
+5,88,"The engine just died and came back, I lost a tenth in the process.",engine,4,frustrated
+5,88,How many laps to go? I'm managing the the hard tyre but I need the number.,strategy,2,calm
+6,27,"Undercut him, we can undercut him, he's slow in the hairpin!",strategy,4,calm
+6,27,"Oil pressure warning on the dash, what do you want me to do?",engine,4,calm
+6,27,"It's a river at the last sector, I nearly lost it, full wets now!",weather,5,angry
+6,88,"I can't get close enough, the dirty air is killing my front end in turn twelve.",traffic,3,frustrated
+7,27,"The rears is finished, I have no grip at all in turn one.",tyres,4,frustrated
+7,27,"He brake tested me into sector two! Report him, that was dangerous.",traffic,4,angry
+7,88,"The inters came alive after a few laps, grip is much better now.",tyres,1,calm
+7,88,How many laps to go? I'm managing the softs but I need the number.,strategy,2,calm
+8,27,What's the plan? Do I hold the gap at 0.6 seconds or do I attack?,strategy,2,calm
+8,27,"Fog is rolling in over turn seven, hard to see the braking points.",weather,3,calm
+8,88,How are the tyre temps looking on your side? It feels snappy in sector two.,tyres,2,calm
+9,27,"Wind has picked up on the straight, the car is snapping in the chicane.",weather,2,calm
+9,88,"Undercut him, we can undercut him, he's slow in turn nine!",strategy,4,calm
+9,88,"Great strategy, guys. Really. Lost three places in that stop.",strategy,3,angry
+9,88,"Dry line is there now, everyone will come in this lap.",weather,3,calm
+10,88,Are we doing the one stop or the two stop? I need to know how hard to push.,strategy,2,calm
+10,88,"Front end is gone in turn one, I'm just sliding through.",tyres,3,frustrated
+10,88,"Few drops on the visor at turn seven, not raining yet, but it's coming.",weather,2,calm
+10,88,Why did we pit so early? I told you the tyres were fine!,strategy,4,angry
+11,27,"Battery warning on the dash, what do you want me to do?",engine,4,calm
+11,27,"Blue flags, blue flags! He's not moving over and it's costing me three tenths a lap.",traffic,4,angry
+12,88,"Undercut him, we can undercut him, he's slow in turn three!",strategy,4,calm
+13,27,"Rain is stopping, the inters will overheat in five laps.",weather,3,calm
+13,27,How many laps to go? I'm managing the the medium tyre but I need the number.,strategy,2,calm
+13,27,"The the hard tyre came alive after a few laps, grip is much better now.",tyres,1,calm
+13,27,"Clean pass into turn nine, no contact, moving on.",traffic,1,calm
+13,88,"I'm losing two tenths a lap to degradation, these inters won't make the end.",tyres,3,calm
+13,88,"The mediums came alive after a few laps, grip is much better now.",tyres,1,calm
+13,88,"Aquaplaning on the straight, it's not safe, they should stop this.",weather,5,angry
+13,88,"Gearbox warning on the dash, what do you want me to do?",engine,4,calm
+13,88,"Puncture! Puncture! front left is going down, I'm coming in!",tyres,5,frustrated
+13,88,"These tyres are a joke today, I can't even keep it on the track in the last sector.",tyres,4,angry
+14,27,"The car ahead is 0.8 seconds away and slow in the final corner, I can get him.",traffic,2,calm
+14,88,"Clean pass into turn three, no contact, moving on.",traffic,1,calm
+15,27,Is the hydraulics okay? The light came on for a second and went off.,engine,2,calm
+15,27,"Gap to the car behind is 1.2, I'm holding him comfortably.",traffic,1,calm
+15,27,"Light drizzle at the chicane, I can stay out on slicks for now.",weather,2,calm
+15,88,"He brake tested me into the last sector! Report him, that was dangerous.",traffic,4,angry
+17,27,"Blistering on the rear right, I can see it in the mirror.",tyres,4,calm
+17,27,"Front end is gone in turn three, I'm just sliding through.",tyres,3,frustrated
+17,88,"Few drops on the visor at the chicane, not raining yet, but it's coming.",weather,2,calm
+17,88,How many laps to go? I'm managing the the soft tyre but I need the number.,strategy,2,calm
+17,88,"Undercut him, we can undercut him, he's slow in turn one!",strategy,4,calm
+17,88,"He pushed me off in turn seven, that was not a racing incident!",traffic,4,angry
+18,27,"Undercut him, we can undercut him, he's slow in sector two!",strategy,4,calm
+18,27,"Fog is rolling in over turn three, hard to see the braking points.",weather,3,calm
+18,88,"The fronts is finished, I have no grip at all in the last sector.",tyres,4,frustrated
+18,88,"Whatever the plan was, it's not working, we're going backwards.",strategy,4,angry
+19,27,"Yellow flags in sector two, someone's off at turn twelve.",traffic,3,calm
+19,88,"Track temperature feels much lower, the hards won't switch on.",weather,2,calm
+19,88,"Plan B, plan B, confirm you copy plan B.",strategy,3,calm
+19,88,"Slow stop, that was a slow stop, what happened?",strategy,3,frustrated
+19,88,"I have a misfire at low revs out of the chicane, it's costing me a second.",engine,3,frustrated
+20,27,"It's a river at the hairpin, I nearly lost it, full wets now!",weather,5,angry
+20,88,"Blistering on the rear left, I can see it in the mirror.",tyres,4,calm
+20,88,"Full power, no issues, tell me if you see anything on the data.",engine,1,calm
+20,88,There's a strange noise from the hydraulics every time I shift down.,engine,3,calm
+21,27,Still eight laps on these? You're joking. There's nothing left in them.,tyres,4,angry
+21,27,"I'm stuck in the DRS train, nothing I can do behind him.",traffic,3,frustrated
+21,27,"Hydraulic pressure warning on the dash, what do you want me to do?",engine,4,calm
+21,88,"Rain is stopping, the inters will overheat in six laps.",weather,3,calm
+22,27,"Please check the clutch, I don't trust it, it's shifting on its own.",engine,3,calm
+22,27,"The hydraulics is not working, I have nothing when I push the overtake button.",engine,4,frustrated
+22,88,What's the plan? Do I hold the gap at 3.4 seconds or do I attack?,strategy,2,calm
+23,27,"Smoke! Smoke from the back of the car, do I stop? Do I stop?",engine,5,angry
+23,88,There's a strange noise from the clutch every time I shift down.,engine,3,calm
+23,88,"Puncture! Puncture! front right is going down, I'm coming in!",tyres,5,frustrated
+23,88,"Light drizzle at turn seven, I can stay out on slicks for now.",weather,2,calm
+24,27,"Yellow flags in sector two, someone's off at turn nine.",traffic,3,calm
+24,27,What's the plan? Do I hold the gap at 2.1 seconds or do I attack?,strategy,2,calm
+24,88,Am I okay on fuel? The number on the dash keeps going down.,strategy,3,calm
+24,88,There's a strange noise from the gearbox every time I shift down.,engine,3,calm
+24,88,"Contact with the car on my left, I think the front wing is damaged.",traffic,5,frustrated
+25,88,"Engine mode is wrong, I told you before the race, it's cutting in the back straight.",engine,4,angry
+25,88,"Traffic ahead, three lapped cars in a row, tell me if the gap behind is safe.",traffic,2,calm
+26,27,"He pushed me off in the hairpin, that was not a racing incident!",traffic,4,angry
+26,27,"Wind has picked up on the straight, the car is snapping in the hairpin.",weather,2,calm
+26,88,What's the plan? Do I hold the gap at 4.0 seconds or do I attack?,strategy,2,calm
+27,27,"Undercut him, we can undercut him, he's slow in the last sector!",strategy,4,calm
+27,88,"Track temperature feels much lower, the softs won't switch on.",weather,2,calm
+27,88,"This engine is a disaster, I'm being passed on every straight!",engine,4,angry
+28,27,"Undercut him, we can undercut him, he's slow in turn four!",strategy,4,calm
+28,27,"The battery is not working, I have nothing when I push the overtake button.",engine,4,frustrated
+28,88,"The car ahead is 0.6 seconds away and slow in the last sector, I can get him.",traffic,2,calm
+29,88,"Dark clouds over the mountain, the back straight will get it first.",weather,2,calm
+30,27,"It's a river at the final corner, I nearly lost it, full wets now!",weather,5,angry
+30,27,"Please check the MGU-K, I don't trust it, it's shifting on its own.",engine,3,calm
+30,27,"Graining on the front right, understeer everywhere in the slow corners.",tyres,3,frustrated
+30,27,"He brake tested me into turn twelve! Report him, that was dangerous.",traffic,4,angry
+30,88,"Tyres feel good, balance is good, tell me when you want the push lap.",tyres,1,calm
+31,27,"Few drops on the visor at the hairpin, not raining yet, but it's coming.",weather,2,calm
+31,27,"These tyres are a joke today, I can't even keep it on the track in the chicane.",tyres,4,angry
+31,27,"Rain is stopping, the inters will overheat in four laps.",weather,3,calm
+31,27,"Engine feels fine, temperatures are normal, deployment is normal.",engine,1,calm
+31,88,"Undercut him, we can undercut him, he's slow in the back straight!",strategy,4,calm
+32,27,"Graining on the rear right, understeer everywhere in the slow corners.",tyres,3,frustrated
+32,27,"Engine mode is wrong, I told you before the race, it's cutting in the final corner.",engine,4,angry
+32,88,"Engine mode is wrong, I told you before the race, it's cutting in turn seven.",engine,4,angry
+34,27,"It's raining properly now at the last sector, I need inters, I need inters!",weather,5,frustrated
+34,27,"He pushed me off in turn three, that was not a racing incident!",traffic,4,angry
+34,88,"Held position through the first corners, no drama, no contact.",traffic,1,calm
+35,27,"Undercut him, we can undercut him, he's slow in the final corner!",strategy,4,calm
+35,27,"Track temperature feels much lower, the inters won't switch on.",weather,2,calm
+35,27,"Undercut him, we can undercut him, he's slow in turn twelve!",strategy,4,calm
+35,27,"He brake tested me into turn nine! Report him, that was dangerous.",traffic,4,angry
+35,27,"Please check the battery, I don't trust it, it's shifting on its own.",engine,3,calm
+35,27,"These tyres are a joke today, I can't even keep it on the track in turn twelve.",tyres,4,angry
+35,88,"Give me the gap to the car behind every lap now, I want to manage this to the end.",strategy,2,calm
+36,27,How are the tyre temps looking on your side? It feels snappy in turn one.,tyres,2,calm
+36,27,"The brakes is not working, I have nothing when I push the overtake button.",engine,4,frustrated
+36,27,"I can't get close enough, the dirty air is killing my front end in turn one.",traffic,3,frustrated
+36,88,"Few drops on the visor at the final corner, not raining yet, but it's coming.",weather,2,calm
+36,88,"Copy, box this lap, understood.",strategy,1,calm
+36,88,"Undercut him, we can undercut him, he's slow in turn seven!",strategy,4,calm
+37,27,"Undercut him, we can undercut him, he's slow in the chicane!",strategy,4,calm
+37,88,"The engine just died and came back, I lost two tenths in the process.",engine,4,frustrated
+37,88,"The engine just died and came back, I lost a second in the process.",engine,4,frustrated
+38,88,"The car ahead is 2.8 seconds away and slow in the last sector, I can get him.",traffic,2,calm
+39,88,"Battery is not charging, I'm empty by the end of the straight.",engine,3,frustrated
+40,27,"These tyres are a joke today, I can't even keep it on the track in turn three.",tyres,4,angry
+40,27,"Few drops on the visor at turn three, not raining yet, but it's coming.",weather,2,calm
+40,88,How are the tyre temps looking on your side? It feels snappy in the hairpin.,tyres,2,calm
+41,27,"Brake temperature warning on the dash, what do you want me to do?",engine,4,calm
+41,27,"Blue flags, blue flags! He's not moving over and it's costing me a second a lap.",traffic,4,angry
+41,27,"Engine mode is wrong, I told you before the race, it's cutting in the hairpin.",engine,4,angry
+41,27,Is the brakes okay? The light came on for a second and went off.,engine,2,calm
+41,27,How are the tyre temps looking on your side? It feels snappy in the final corner.,tyres,2,calm
+41,27,"Rear temps are dropping, I can't get heat into the the soft tyre behind the safety car.",tyres,3,calm
+41,88,"Lapped car in turn one held me up, I'll get him on the straight.",traffic,2,calm
+41,88,"The rears is finished, I have no grip at all in the last sector.",tyres,4,frustrated
+42,27,"Oil smell in the cockpit again, worse than before.",engine,3,calm
+42,27,"Track is drying on the racing line, slicks in four laps I think.",weather,3,calm
+42,27,"Sun is out, track is heating up, degradation will go up.",weather,1,calm
+42,27,"Visibility is zero behind the spray, I can't see the car ahead.",weather,4,frustrated
+43,88,There's a strange noise from the turbo every time I shift down.,engine,3,calm
+44,27,"Thank you guys, perfect call on the stop, we jumped both of them.",strategy,1,calm
+44,27,How many laps to go? I'm managing the inters but I need the number.,strategy,2,calm
+44,27,"Please check the turbo, I don't trust it, it's shifting on its own.",engine,3,calm
+44,27,How are the tyre temps looking on your side? It feels snappy in turn four.,tyres,2,calm
+44,88,"He pushed me off in turn nine, that was not a racing incident!",traffic,4,angry
+45,27,"It's raining properly now at the back straight, I need inters, I need inters!",weather,5,frustrated
+45,27,"Fronts are cold after the pit stop, give me a lap before you judge the pace.",tyres,2,calm
+45,88,"He pushed me off in sector two, that was not a racing incident!",traffic,4,angry
+45,88,"It's a river at turn three, I nearly lost it, full wets now!",weather,5,angry
+46,27,"He pushed me off in the final corner, that was not a racing incident!",traffic,4,angry
+46,88,What's the plan? Do I hold the gap at 0.8 seconds or do I attack?,strategy,2,calm
+46,88,"Gap to the car behind is 3.4, I'm holding him comfortably.",traffic,1,calm
+47,27,Still three laps on these? You're joking. There's nothing left in them.,tyres,4,angry
+48,88,"Let me stay out, staying out is the only way past him.",strategy,3,frustrated
+48,88,"Rain is stopping, the inters will overheat in ten laps.",weather,3,calm
+49,27,"Front end is gone in turn nine, I'm just sliding through.",tyres,3,frustrated
+49,27,"Fog is rolling in over the back straight, hard to see the braking points.",weather,3,calm
+49,27,"Yellow flags in sector two, someone's off at turn seven.",traffic,3,calm
+49,27,How are the tyre temps looking on your side? It feels snappy in turn seven.,tyres,2,calm
+50,27,"These tyres are a joke today, I can't even keep it on the track in the hairpin.",tyres,4,angry
+50,88,"Front end is gone in the final corner, I'm just sliding through.",tyres,3,frustrated
+51,27,What's the plan? Do I hold the gap at 2.8 seconds or do I attack?,strategy,2,calm
+51,27,"Light drizzle at the hairpin, I can stay out on slicks for now.",weather,2,calm
+51,27,Who is this guy? He's defending like it's the last lap and we're on lap ten!,traffic,3,angry
+51,88,"Debris on the racing line at the back straight, big piece, watch out for the other car.",traffic,3,calm
+51,88,"He pushed me off in turn four, that was not a racing incident!",traffic,4,angry
+52,27,"The clutch is not working, I have nothing when I push the overtake button.",engine,4,frustrated
+52,88,"Track is drying on the racing line, slicks in three laps I think.",weather,3,calm
+52,88,"Clean pass into sector two, no contact, moving on.",traffic,1,calm
+52,88,"The the soft tyre came alive after a few laps, grip is much better now.",tyres,1,calm
+53,27,"These tyres are a joke today, I can't even keep it on the track in the back straight.",tyres,4,angry
+53,27,Is the turbo okay? The light came on for a second and went off.,engine,2,calm
+53,27,What's the plan? Do I hold the gap at 1.5 seconds or do I attack?,strategy,2,calm
+54,27,"Track is drying on the racing line, slicks in twelve laps I think.",weather,3,calm
+54,27,"Box now? Box now? Tell me, the window is closing!",strategy,4,frustrated
+54,27,How many laps to go? I'm managing the mediums but I need the number.,strategy,2,calm
+54,88,"Please check the brakes, I don't trust it, it's shifting on its own.",engine,3,calm
+55,27,"I'm losing a tenth a lap to degradation, these the hard tyre won't make the end.",tyres,3,calm
+55,27,"Few drops on the visor at the last sector, not raining yet, but it's coming.",weather,2,calm
+56,27,"I can't get close enough, the dirty air is killing my front end in the final corner.",traffic,3,frustrated
+56,88,"These tyres are a joke today, I can't even keep it on the track in the final corner.",tyres,4,angry
+56,88,"The radar said dry! I'm on softs in the rain, brilliant!",weather,4,angry
+57,27,"He brake tested me into the hairpin! Report him, that was dangerous.",traffic,4,angry
+57,27,"Fog is rolling in over the last sector, hard to see the braking points.",weather,3,calm
+57,27,"I can't get close enough, the dirty air is killing my front end in the back straight.",traffic,3,frustrated
+57,88,"The hards are dead, completely dead, what are we doing?",tyres,4,angry

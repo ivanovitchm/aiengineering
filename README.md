@@ -97,3 +97,13 @@ Repository for the **Machine Learning-Based Systems Design** course, offered as 
   - Evaluate **tokenization/context, architecture, attention, classification, generation, and inference cost**.
   - Use ≥30 labelled examples for zero- and few-shot classification.
   - **Deliverable:** executed notebook with evidence-based decisions, a final comparison table, and a **3-minute presentation**.
+
+
+  **Week 05**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week05/lesson07.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week05/lesson07.ipynb) **Ollama in practice · from one radio message to a pit-wall dataset**
+  - Ollama as a local HTTP server, called from Python with raw `requests` and with the OpenAI SDK.
+  - Sampling (`temperature` vs. `seed`), streaming, tokens per second, and conversation memory.
+  - JSON mode, Pydantic contracts and structured outputs, on `qwen2.5:0.5b` and `qwen2.5:3b`.
+  - 30 F1 radio messages classified into a DataFrame and a plot.
+  - Self-paced notebook (in Portuguese), runs on Google Colab. Datasets `radio_messages.csv` and `radio_messages_200.csv`.
+  - Assignment. A `Modelfile` race engineer, 200 messages on two models, one-page report.

@@ -107,3 +107,20 @@ Repository for the **Machine Learning-Based Systems Design** course, offered as 
   - 30 F1 radio messages classified into a DataFrame and a plot.
   - Self-paced notebook (in Portuguese), runs on Google Colab. Datasets `radio_messages.csv` and `radio_messages_200.csv`.
   - Assignment. A `Modelfile` race engineer, 200 messages on two models, one-page report.
+
+**Week 06**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson08.pdf) **Retrieval-Augmented Generation: the classic pipeline**
+  - The complete RAG pipeline: documents, chunks, embeddings, vector search, retrieval, and grounded generation.
+  - Uses a fictional **Aurora Racing** handbook to show how external knowledge reduces hallucinations.
+  - Introduces evaluation with fixed questions, reference answers, and expected source documents.
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson08_demo.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson08_demo.ipynb) **RAG classroom demo**
+  - A compact live demonstration using Ollama, `qwen2.5:3b`, and `nomic-embed-text`.
+  - Compares answers without RAG against grounded answers produced with retrieved evidence.
+  - Displays the retrieved chunks, sources, similarity distances, and final response.
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson08_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson08_exercise.ipynb) **Classic RAG in practice**
+  - Builds a complete RAG system over the Aurora Racing handbook.
+  - Evaluates retrieval and generation using 20 direct, multi-document, and unanswerable questions.
+  - Produces `results_baseline.csv`, the baseline for the advanced RAG techniques in Lesson 09.

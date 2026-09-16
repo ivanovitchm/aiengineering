@@ -124,3 +124,19 @@ Repository for the **Machine Learning-Based Systems Design** course, offered as 
   - Builds a complete RAG system over the Aurora Racing handbook.
   - Evaluates retrieval and generation using 20 direct, multi-document, and unanswerable questions.
   - Produces `results_baseline.csv`, the baseline for the advanced RAG techniques in Lesson 09.
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson09.pdf) **Advanced RAG: four families of improvements**
+  - Groups the limitations of classic RAG into problems before, during, and after retrieval, plus the control loop.
+  - Introduces HyDE, hybrid search with BM25 and RRF, cross-encoder reranking, and Corrective RAG (CRAG).
+  - Compares each technique with the same baseline in terms of accuracy, latency, extra models, and LLM calls.
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson09_demo.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson09_demo.ipynb) **Advanced RAG results for the slides**
+  - Runs the four techniques over the same Aurora Racing corpus and 20-question evaluation harness from Lesson 08.
+  - Shows how each method changes retrieval: hypothetical passages, fused rankings, reranked chunks, and corrective grading.
+  - Saves one CSV per variant and generates the final scoreboard comparing every technique against the baseline.
+  - Project 01
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson09_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week06/lesson09_exercise.ipynb) **Advanced RAG in practice**
+  - Builds HyDE, hybrid retrieval, reranking, and CRAG one function at a time, with guided implementation tasks.
+  - Tunes two technique families and analyzes accuracy differences, unstable questions, and cost-benefit trade-offs.
+  - Produces a seven-variant comparison, supporting CSVs, and a two-page report explaining the results.

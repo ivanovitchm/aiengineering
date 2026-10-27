@@ -1,0 +1,321 @@
+car_id,brand,model,body,year,km,price_brl,transmission,fuel,consumption_kml,trunk_l,color,city
+c001,Chevrolet,Tracker,SUV,2017,124500,70500,automatic,flex,11.6,393,branco,Parnamirim
+c002,Chevrolet,Tracker,SUV,2017,117800,71000,automatic,flex,11.4,393,vermelho,Parnamirim
+c003,Chevrolet,Tracker,SUV,2019,91000,74500,automatic,flex,11.4,393,preto,Parnamirim
+c004,Chevrolet,Tracker,SUV,2020,81600,80500,manual,flex,11.1,393,prata,Parnamirim
+c005,Chevrolet,Tracker,SUV,2020,83100,94500,automatic,flex,11.2,393,branco,Macaíba
+c006,Chevrolet,Tracker,SUV,2020,86100,88000,manual,flex,11.3,393,azul,Macaíba
+c007,Chevrolet,Tracker,SUV,2021,56500,95000,automatic,flex,11.6,393,branco,Mossoró
+c008,Chevrolet,Tracker,SUV,2021,67000,103000,automatic,flex,10.8,393,preto,Mossoró
+c009,Chevrolet,Tracker,SUV,2021,53100,89000,manual,flex,11.5,393,cinza,São Gonçalo do Amarante
+c010,Chevrolet,Tracker,SUV,2022,33900,109000,automatic,flex,11.4,393,cinza,Natal
+c011,Chevrolet,Tracker,SUV,2022,43400,109500,automatic,flex,11.0,393,azul,Natal
+c012,Chevrolet,Tracker,SUV,2023,28800,128500,automatic,flex,11.6,393,preto,Mossoró
+c013,Chevrolet,Tracker,SUV,2025,14200,129000,automatic,flex,11.5,393,vermelho,Mossoró
+c014,Chevrolet,Tracker,SUV,2025,12900,133000,automatic,flex,10.9,393,cinza,Natal
+c015,Chevrolet,Tracker,SUV,2025,16500,111000,manual,flex,10.9,393,cinza,Parnamirim
+c016,Honda,HR-V,SUV,2015,134300,58000,manual,flex,11.3,354,preto,Natal
+c017,Honda,HR-V,SUV,2015,146100,69000,automatic,flex,11.3,354,azul,Mossoró
+c018,Honda,HR-V,SUV,2016,133000,83500,automatic,flex,11.0,354,prata,Natal
+c019,Honda,HR-V,SUV,2016,126400,77000,automatic,flex,10.4,354,preto,Parnamirim
+c020,Honda,HR-V,SUV,2017,105000,89500,automatic,flex,11.0,354,preto,Parnamirim
+c021,Honda,HR-V,SUV,2018,97600,86000,automatic,flex,10.9,354,branco,Natal
+c022,Honda,HR-V,SUV,2019,100100,94000,automatic,flex,11.2,354,branco,Natal
+c023,Honda,HR-V,SUV,2019,88600,96500,automatic,flex,11.5,354,cinza,Parnamirim
+c024,Honda,HR-V,SUV,2019,94800,89000,automatic,flex,11.2,354,prata,São Gonçalo do Amarante
+c025,Honda,HR-V,SUV,2021,59000,99000,manual,flex,11.6,354,vermelho,Natal
+c026,Honda,HR-V,SUV,2023,42000,116500,automatic,flex,11.5,354,preto,Parnamirim
+c027,Honda,HR-V,SUV,2024,37500,122000,manual,flex,10.8,354,branco,São Gonçalo do Amarante
+c028,Honda,HR-V,SUV,2024,28100,137500,automatic,flex,11.5,354,preto,Natal
+c029,Honda,HR-V,SUV,2025,18300,139500,automatic,flex,11.2,354,prata,Natal
+c030,Hyundai,Creta,SUV,2018,109900,77500,manual,flex,11.0,431,cinza,Macaíba
+c031,Hyundai,Creta,SUV,2018,95300,73500,manual,flex,11.2,431,prata,Mossoró
+c032,Hyundai,Creta,SUV,2020,78600,96500,automatic,flex,10.9,431,vermelho,Mossoró
+c033,Hyundai,Creta,SUV,2021,54100,98000,automatic,flex,11.1,431,azul,Parnamirim
+c034,Hyundai,Creta,SUV,2021,62500,87500,manual,flex,11.0,431,prata,Parnamirim
+c035,Hyundai,Creta,SUV,2021,67600,97500,manual,flex,11.4,431,prata,Natal
+c036,Hyundai,Creta,SUV,2022,50300,110000,automatic,flex,11.1,431,azul,Natal
+c037,Hyundai,Creta,SUV,2022,50700,112500,automatic,flex,11.0,431,branco,São Gonçalo do Amarante
+c038,Hyundai,Creta,SUV,2024,26300,123000,automatic,flex,10.4,431,preto,Natal
+c039,Hyundai,Creta,SUV,2025,18500,137500,automatic,flex,10.4,431,cinza,Parnamirim
+c040,Hyundai,Creta,SUV,2025,12700,116500,automatic,flex,11.0,431,azul,Macaíba
+c041,Hyundai,Creta,SUV,2025,9800,125500,manual,flex,11.2,431,cinza,Parnamirim
+c042,Hyundai,Creta,SUV,2025,15300,129500,automatic,flex,11.7,431,preto,Natal
+c043,Jeep,Compass,SUV,2017,139900,98500,automatic,flex,9.7,410,preto,Natal
+c044,Jeep,Compass,SUV,2018,106700,111000,automatic,flex,10.0,410,vermelho,Macaíba
+c045,Jeep,Compass,SUV,2018,96700,105000,automatic,flex,9.8,410,azul,Parnamirim
+c046,Jeep,Compass,SUV,2019,83400,99500,manual,flex,9.8,410,cinza,São Gonçalo do Amarante
+c047,Jeep,Compass,SUV,2019,83400,101500,manual,flex,9.2,410,preto,São Gonçalo do Amarante
+c048,Jeep,Compass,SUV,2021,59000,127500,automatic,flex,9.8,410,branco,Macaíba
+c049,Jeep,Compass,SUV,2021,76500,137000,automatic,flex,9.6,410,preto,Mossoró
+c050,Jeep,Compass,SUV,2021,53000,122500,manual,flex,10.1,410,vermelho,Parnamirim
+c051,Jeep,Compass,SUV,2022,49500,143000,automatic,flex,8.9,410,prata,Natal
+c052,Jeep,Compass,SUV,2023,40600,150500,manual,flex,9.8,410,branco,Natal
+c053,Jeep,Compass,SUV,2024,30600,150000,automatic,flex,9.8,410,vermelho,Natal
+c054,Jeep,Compass,SUV,2024,20300,164000,automatic,flex,9.4,410,azul,Natal
+c055,Jeep,Compass,SUV,2024,16700,178500,automatic,flex,9.5,410,preto,Mossoró
+c056,Jeep,Compass,SUV,2025,15900,156500,manual,flex,9.8,410,preto,São Gonçalo do Amarante
+c057,Jeep,Compass,SUV,2025,17200,179500,automatic,flex,10.2,410,preto,Mossoró
+c058,Jeep,Renegade,SUV,2015,151500,59500,automatic,flex,10.6,320,prata,Parnamirim
+c059,Jeep,Renegade,SUV,2016,142500,65000,manual,flex,10.4,320,vermelho,Macaíba
+c060,Jeep,Renegade,SUV,2016,120600,70000,automatic,flex,10.1,320,preto,Mossoró
+c061,Jeep,Renegade,SUV,2020,82700,76500,manual,flex,10.0,320,cinza,Mossoró
+c062,Jeep,Renegade,SUV,2020,77100,87000,automatic,flex,10.6,320,cinza,São Gonçalo do Amarante
+c063,Jeep,Renegade,SUV,2023,44700,97000,automatic,flex,10.5,320,prata,Mossoró
+c064,Jeep,Renegade,SUV,2024,17200,113000,automatic,flex,10.0,320,vermelho,São Gonçalo do Amarante
+c065,Jeep,Renegade,SUV,2024,32300,112500,automatic,flex,10.1,320,vermelho,Natal
+c066,Jeep,Renegade,SUV,2025,16400,109500,manual,flex,9.8,320,vermelho,Mossoró
+c067,Nissan,Kicks,SUV,2017,110800,64000,automatic,flex,11.7,432,cinza,Natal
+c068,Nissan,Kicks,SUV,2018,112100,74000,automatic,flex,11.9,432,azul,Natal
+c069,Nissan,Kicks,SUV,2021,59900,84500,automatic,flex,11.8,432,vermelho,Natal
+c070,Nissan,Kicks,SUV,2021,66600,89000,automatic,flex,11.4,432,preto,Macaíba
+c071,Nissan,Kicks,SUV,2022,36800,88000,automatic,flex,11.4,432,cinza,Natal
+c072,Nissan,Kicks,SUV,2023,44600,99000,automatic,flex,11.0,432,azul,Natal
+c073,Nissan,Kicks,SUV,2023,30300,105000,automatic,flex,11.4,432,cinza,Natal
+c074,Nissan,Kicks,SUV,2024,17000,103000,automatic,flex,11.7,432,branco,Natal
+c075,Renault,Duster,SUV,2015,131600,50500,manual,flex,10.2,475,preto,Natal
+c076,Renault,Duster,SUV,2015,135400,50500,automatic,flex,10.7,475,azul,Parnamirim
+c077,Renault,Duster,SUV,2018,99900,67000,automatic,flex,10.4,475,preto,Natal
+c078,Renault,Duster,SUV,2018,101100,64000,automatic,flex,10.5,475,branco,Natal
+c079,Renault,Duster,SUV,2019,91800,63500,automatic,flex,10.0,475,branco,Mossoró
+c080,Renault,Duster,SUV,2021,51300,84000,automatic,flex,10.6,475,vermelho,Parnamirim
+c081,Renault,Duster,SUV,2021,67700,71000,manual,flex,10.9,475,branco,Natal
+c082,Renault,Duster,SUV,2021,56500,75000,automatic,flex,10.4,475,cinza,Macaíba
+c083,Renault,Duster,SUV,2022,58600,86500,automatic,flex,10.8,475,azul,Parnamirim
+c084,Renault,Duster,SUV,2023,41600,90500,automatic,flex,11.0,475,cinza,São Gonçalo do Amarante
+c085,Renault,Duster,SUV,2023,42200,88000,manual,flex,10.8,475,branco,Natal
+c086,Renault,Duster,SUV,2023,24200,98500,automatic,flex,10.2,475,cinza,Parnamirim
+c087,Renault,Duster,SUV,2024,25100,103000,manual,flex,10.5,475,branco,Natal
+c088,Renault,Duster,SUV,2025,14100,98000,manual,flex,10.3,475,prata,São Gonçalo do Amarante
+c089,Toyota,Corolla Cross,SUV,2022,37500,127000,manual,flex,11.5,440,branco,Parnamirim
+c090,Toyota,Corolla Cross,SUV,2022,46800,136000,automatic,flex,11.8,440,prata,Parnamirim
+c091,Toyota,Corolla Cross,SUV,2022,53500,118500,manual,flex,11.0,440,vermelho,Macaíba
+c092,Toyota,Corolla Cross,SUV,2022,58800,128500,automatic,flex,11.4,440,branco,Mossoró
+c093,Toyota,Corolla Cross,SUV,2023,42800,141000,automatic,flex,11.1,440,preto,Macaíba
+c094,Toyota,Corolla Cross,SUV,2023,37800,134000,manual,flex,10.0,440,cinza,Macaíba
+c095,Toyota,Corolla Cross,SUV,2023,34100,143000,automatic,flex,10.5,440,cinza,Natal
+c096,Toyota,Corolla Cross,SUV,2023,37800,139500,automatic,flex,11.0,440,vermelho,São Gonçalo do Amarante
+c097,Toyota,Corolla Cross,SUV,2024,27300,143500,manual,flex,10.5,440,preto,Macaíba
+c098,Toyota,Corolla Cross,SUV,2024,23800,156500,automatic,flex,11.4,440,branco,Parnamirim
+c099,Toyota,Corolla Cross,SUV,2024,26200,136500,manual,flex,10.7,440,branco,Natal
+c100,Toyota,Corolla Cross,SUV,2025,19600,167000,automatic,flex,11.1,440,preto,São Gonçalo do Amarante
+c101,Toyota,Corolla Cross,SUV,2025,15700,148500,manual,flex,11.0,440,prata,Parnamirim
+c102,Toyota,Corolla Cross,SUV,2025,10200,162500,automatic,flex,10.5,440,preto,Natal
+c103,Toyota,Corolla Cross,SUV,2025,15800,152500,manual,flex,10.7,440,azul,Parnamirim
+c104,Toyota,Corolla Cross,SUV,2025,11200,162000,manual,flex,10.4,440,prata,Mossoró
+c105,Toyota,Corolla Cross,SUV,2025,12900,160000,automatic,flex,10.6,440,branco,Natal
+c106,Volkswagen,Nivus,SUV,2021,83200,92500,automatic,flex,12.0,415,branco,Parnamirim
+c107,Volkswagen,Nivus,SUV,2021,59800,91500,manual,flex,11.9,415,azul,Macaíba
+c108,Volkswagen,Nivus,SUV,2021,77600,93500,automatic,flex,11.7,415,cinza,Natal
+c109,Volkswagen,Nivus,SUV,2021,70300,75500,manual,flex,12.5,415,vermelho,Natal
+c110,Volkswagen,Nivus,SUV,2021,53100,93500,automatic,flex,12.4,415,cinza,Parnamirim
+c111,Volkswagen,Nivus,SUV,2022,42600,90500,manual,flex,12.4,415,prata,Natal
+c112,Volkswagen,Nivus,SUV,2022,56400,106000,automatic,flex,11.6,415,prata,Natal
+c113,Volkswagen,Nivus,SUV,2022,54100,96000,manual,flex,12.0,415,azul,Natal
+c114,Volkswagen,Nivus,SUV,2022,59900,103500,automatic,flex,12.4,415,preto,São Gonçalo do Amarante
+c115,Volkswagen,Nivus,SUV,2023,43000,104000,automatic,flex,11.8,415,preto,Natal
+c116,Volkswagen,Nivus,SUV,2023,19700,108500,manual,flex,11.4,415,prata,Natal
+c117,Volkswagen,Nivus,SUV,2023,43800,93000,manual,flex,12.5,415,preto,Natal
+c118,Volkswagen,Nivus,SUV,2024,17600,121000,automatic,flex,11.9,415,prata,Natal
+c119,Volkswagen,Nivus,SUV,2024,32900,116000,automatic,flex,11.9,415,azul,Parnamirim
+c120,Volkswagen,Nivus,SUV,2024,33400,113000,automatic,flex,12.0,415,preto,Parnamirim
+c121,Volkswagen,Nivus,SUV,2025,16900,124000,automatic,flex,12.1,415,prata,São Gonçalo do Amarante
+c122,Volkswagen,Nivus,SUV,2025,6500,134500,automatic,flex,12.4,415,branco,Mossoró
+c123,Volkswagen,Nivus,SUV,2025,20800,103500,manual,flex,12.4,415,cinza,Natal
+c124,Volkswagen,T-Cross,SUV,2021,84500,110000,automatic,flex,12.5,420,vermelho,Parnamirim
+c125,Volkswagen,T-Cross,SUV,2021,62900,97500,manual,flex,11.6,420,branco,Natal
+c126,Volkswagen,T-Cross,SUV,2022,52000,99500,automatic,flex,11.9,420,preto,São Gonçalo do Amarante
+c127,Volkswagen,T-Cross,SUV,2022,51300,109000,automatic,flex,11.4,420,cinza,São Gonçalo do Amarante
+c128,Volkswagen,T-Cross,SUV,2023,22500,113500,manual,flex,11.8,420,branco,Mossoró
+c129,Volkswagen,T-Cross,SUV,2023,40500,99500,manual,flex,11.7,420,vermelho,Natal
+c130,Volkswagen,T-Cross,SUV,2023,50500,96000,automatic,flex,12.0,420,cinza,Natal
+c131,Volkswagen,T-Cross,SUV,2024,25600,113000,manual,flex,11.7,420,azul,Parnamirim
+c132,Volkswagen,T-Cross,SUV,2024,20700,127500,automatic,flex,11.0,420,vermelho,Natal
+c133,Volkswagen,T-Cross,SUV,2025,16200,131000,automatic,flex,11.0,420,preto,Macaíba
+c134,Volkswagen,T-Cross,SUV,2025,10700,140000,automatic,flex,11.4,420,cinza,Parnamirim
+c135,Chevrolet,Onix,hatch,2015,143000,37000,manual,flex,13.3,275,cinza,Mossoró
+c136,Chevrolet,Onix,hatch,2017,120200,48500,manual,flex,13.1,275,vermelho,Parnamirim
+c137,Chevrolet,Onix,hatch,2018,107700,50500,automatic,flex,13.6,275,vermelho,Macaíba
+c138,Chevrolet,Onix,hatch,2018,93500,56500,automatic,flex,12.9,275,preto,Natal
+c139,Chevrolet,Onix,hatch,2019,101500,49500,manual,flex,12.3,275,preto,São Gonçalo do Amarante
+c140,Chevrolet,Onix,hatch,2021,70000,60500,manual,flex,13.3,275,preto,Mossoró
+c141,Chevrolet,Onix,hatch,2023,39800,66000,manual,flex,12.9,275,prata,Macaíba
+c142,Chevrolet,Onix,hatch,2023,46100,72500,manual,flex,12.8,275,preto,São Gonçalo do Amarante
+c143,Chevrolet,Onix,hatch,2023,31700,72500,manual,flex,13.3,275,azul,São Gonçalo do Amarante
+c144,Chevrolet,Onix,hatch,2024,11600,88500,automatic,flex,12.8,275,cinza,São Gonçalo do Amarante
+c145,Chevrolet,Onix,hatch,2025,8300,83500,manual,flex,13.0,275,prata,Parnamirim
+c146,Chevrolet,Onix,hatch,2025,10600,77500,manual,flex,12.8,275,vermelho,Parnamirim
+c147,Fiat,Argo,hatch,2018,113700,47000,manual,flex,12.4,300,preto,Natal
+c148,Fiat,Argo,hatch,2019,85200,55000,automatic,flex,13.3,300,preto,Parnamirim
+c149,Fiat,Argo,hatch,2019,86700,50000,automatic,flex,12.9,300,prata,Natal
+c150,Fiat,Argo,hatch,2019,105200,50500,manual,flex,12.8,300,prata,Parnamirim
+c151,Fiat,Argo,hatch,2021,74900,59000,manual,flex,13.0,300,vermelho,Natal
+c152,Fiat,Argo,hatch,2021,63600,65000,automatic,flex,12.8,300,azul,Natal
+c153,Fiat,Argo,hatch,2022,50600,62500,manual,flex,12.1,300,prata,Natal
+c154,Fiat,Argo,hatch,2022,57400,68000,manual,flex,12.5,300,branco,Natal
+c155,Fiat,Argo,hatch,2023,42700,70000,manual,flex,12.5,300,vermelho,São Gonçalo do Amarante
+c156,Fiat,Argo,hatch,2025,4000,76000,manual,flex,13.1,300,preto,São Gonçalo do Amarante
+c157,Fiat,Mobi,hatch,2017,99800,33500,manual,flex,13.7,215,azul,Parnamirim
+c158,Fiat,Mobi,hatch,2018,116000,38500,manual,flex,13.6,215,azul,São Gonçalo do Amarante
+c159,Fiat,Mobi,hatch,2018,84400,38500,manual,flex,13.9,215,preto,Natal
+c160,Fiat,Mobi,hatch,2018,107600,36500,manual,flex,13.2,215,prata,Natal
+c161,Fiat,Mobi,hatch,2018,108600,35500,manual,flex,12.5,215,prata,Natal
+c162,Fiat,Mobi,hatch,2019,91200,42500,manual,flex,14.2,215,branco,Parnamirim
+c163,Fiat,Mobi,hatch,2019,90600,44500,manual,flex,13.4,215,branco,Natal
+c164,Fiat,Mobi,hatch,2020,64500,46500,manual,flex,13.2,215,preto,Parnamirim
+c165,Fiat,Mobi,hatch,2020,72600,43500,manual,flex,13.3,215,branco,Parnamirim
+c166,Fiat,Mobi,hatch,2021,56300,52000,manual,flex,13.6,215,prata,Natal
+c167,Fiat,Mobi,hatch,2022,52700,58500,manual,flex,13.6,215,preto,Natal
+c168,Fiat,Mobi,hatch,2022,46800,50000,manual,flex,12.8,215,preto,São Gonçalo do Amarante
+c169,Fiat,Mobi,hatch,2023,30900,54000,manual,flex,14.0,215,branco,Natal
+c170,Fiat,Mobi,hatch,2023,34700,53000,manual,flex,13.8,215,branco,Mossoró
+c171,Fiat,Mobi,hatch,2023,43100,55500,manual,flex,12.8,215,branco,Natal
+c172,Fiat,Mobi,hatch,2023,37700,52000,manual,flex,13.4,215,cinza,Parnamirim
+c173,Fiat,Mobi,hatch,2025,8900,63500,manual,flex,13.3,215,vermelho,Natal
+c174,Hyundai,HB20,hatch,2015,140900,40500,manual,flex,12.8,300,branco,Natal
+c175,Hyundai,HB20,hatch,2016,135800,44000,automatic,flex,13.8,300,prata,Parnamirim
+c176,Hyundai,HB20,hatch,2017,132700,45500,manual,flex,13.3,300,azul,Mossoró
+c177,Hyundai,HB20,hatch,2017,139900,50500,automatic,flex,13.1,300,vermelho,Natal
+c178,Hyundai,HB20,hatch,2017,113600,52000,automatic,flex,13.0,300,vermelho,Natal
+c179,Hyundai,HB20,hatch,2018,102600,44500,manual,flex,13.0,300,branco,Parnamirim
+c180,Hyundai,HB20,hatch,2018,138600,49500,automatic,flex,13.3,300,azul,Macaíba
+c181,Hyundai,HB20,hatch,2019,90600,52000,manual,flex,13.4,300,cinza,Natal
+c182,Hyundai,HB20,hatch,2019,75500,53000,manual,flex,13.5,300,vermelho,Macaíba
+c183,Hyundai,HB20,hatch,2020,88100,59000,automatic,flex,13.3,300,cinza,Natal
+c184,Hyundai,HB20,hatch,2021,49700,60000,manual,flex,12.9,300,branco,São Gonçalo do Amarante
+c185,Hyundai,HB20,hatch,2022,37700,65000,manual,flex,13.1,300,preto,São Gonçalo do Amarante
+c186,Hyundai,HB20,hatch,2023,30500,65000,manual,flex,12.8,300,branco,Mossoró
+c187,Hyundai,HB20,hatch,2023,39700,66500,automatic,flex,12.7,300,azul,Parnamirim
+c188,Hyundai,HB20,hatch,2023,39900,68000,manual,flex,13.0,300,preto,Parnamirim
+c189,Hyundai,HB20,hatch,2024,37400,84500,automatic,flex,12.9,300,preto,Natal
+c190,Renault,Kwid,hatch,2018,96300,38500,manual,flex,13.9,290,preto,Mossoró
+c191,Renault,Kwid,hatch,2019,75500,41000,manual,flex,14.6,290,preto,Natal
+c192,Renault,Kwid,hatch,2020,84300,40000,manual,flex,13.5,290,branco,Mossoró
+c193,Renault,Kwid,hatch,2020,90900,42000,manual,flex,13.5,290,cinza,São Gonçalo do Amarante
+c194,Renault,Kwid,hatch,2020,79300,43000,manual,flex,13.3,290,cinza,São Gonçalo do Amarante
+c195,Renault,Kwid,hatch,2022,44300,51000,manual,flex,14.5,290,preto,Mossoró
+c196,Renault,Kwid,hatch,2022,50200,51500,manual,flex,14.2,290,branco,Natal
+c197,Renault,Kwid,hatch,2023,30800,51000,manual,flex,14.7,290,branco,Mossoró
+c198,Renault,Kwid,hatch,2024,22800,57500,manual,flex,13.8,290,cinza,Mossoró
+c199,Renault,Kwid,hatch,2024,21200,50000,manual,flex,14.1,290,azul,Natal
+c200,Renault,Sandero,hatch,2016,136200,41000,automatic,flex,12.6,320,preto,São Gonçalo do Amarante
+c201,Renault,Sandero,hatch,2017,128100,45500,manual,flex,12.5,320,branco,Macaíba
+c202,Renault,Sandero,hatch,2017,114800,40000,manual,flex,12.8,320,branco,Parnamirim
+c203,Renault,Sandero,hatch,2017,135600,45500,automatic,flex,12.2,320,prata,Macaíba
+c204,Renault,Sandero,hatch,2017,117500,44000,automatic,flex,12.1,320,branco,Natal
+c205,Renault,Sandero,hatch,2018,85800,44000,manual,flex,11.9,320,azul,Natal
+c206,Renault,Sandero,hatch,2019,90300,43000,manual,flex,12.6,320,vermelho,Mossoró
+c207,Renault,Sandero,hatch,2020,77100,48000,manual,flex,12.2,320,preto,Natal
+c208,Renault,Sandero,hatch,2021,60900,56000,manual,flex,12.6,320,cinza,São Gonçalo do Amarante
+c209,Renault,Sandero,hatch,2021,69200,55500,automatic,flex,11.9,320,branco,Mossoró
+c210,Renault,Sandero,hatch,2021,59800,55500,manual,flex,12.7,320,vermelho,São Gonçalo do Amarante
+c211,Renault,Sandero,hatch,2021,69200,59000,automatic,flex,12.3,320,prata,Macaíba
+c212,Volkswagen,Gol,hatch,2017,100500,37500,manual,flex,12.7,285,prata,São Gonçalo do Amarante
+c213,Volkswagen,Gol,hatch,2018,106300,38500,manual,flex,12.5,285,preto,São Gonçalo do Amarante
+c214,Volkswagen,Gol,hatch,2019,76800,42500,manual,flex,12.5,285,cinza,São Gonçalo do Amarante
+c215,Volkswagen,Gol,hatch,2019,89100,45000,manual,flex,12.1,285,branco,Natal
+c216,Volkswagen,Gol,hatch,2021,55400,48500,manual,flex,11.8,285,preto,São Gonçalo do Amarante
+c217,Volkswagen,Gol,hatch,2021,72900,48500,manual,flex,12.4,285,branco,Mossoró
+c218,Volkswagen,Gol,hatch,2023,45300,59000,manual,flex,11.3,285,vermelho,Parnamirim
+c219,Volkswagen,Gol,hatch,2023,32400,62000,manual,flex,12.8,285,prata,Parnamirim
+c220,Volkswagen,Polo,hatch,2018,116600,57500,automatic,flex,12.5,300,branco,Natal
+c221,Volkswagen,Polo,hatch,2018,87400,53000,manual,flex,12.4,300,preto,Natal
+c222,Volkswagen,Polo,hatch,2018,87300,55500,manual,flex,12.7,300,azul,Natal
+c223,Volkswagen,Polo,hatch,2018,91600,51500,manual,flex,12.9,300,prata,Parnamirim
+c224,Volkswagen,Polo,hatch,2018,96900,55000,automatic,flex,12.6,300,cinza,Parnamirim
+c225,Volkswagen,Polo,hatch,2019,64900,55000,manual,flex,12.7,300,branco,Mossoró
+c226,Volkswagen,Polo,hatch,2019,93600,64500,manual,flex,13.1,300,azul,Natal
+c227,Volkswagen,Polo,hatch,2020,72900,63500,manual,flex,12.6,300,preto,Macaíba
+c228,Volkswagen,Polo,hatch,2021,62800,64000,manual,flex,13.0,300,branco,Natal
+c229,Volkswagen,Polo,hatch,2021,70700,72000,manual,flex,12.8,300,vermelho,Natal
+c230,Volkswagen,Polo,hatch,2021,60900,67000,manual,flex,12.2,300,branco,São Gonçalo do Amarante
+c231,Volkswagen,Polo,hatch,2022,53300,71500,manual,flex,12.8,300,preto,Mossoró
+c232,Volkswagen,Polo,hatch,2023,38500,78500,manual,flex,13.1,300,preto,Parnamirim
+c233,Volkswagen,Polo,hatch,2024,21800,89000,manual,flex,12.5,300,prata,Parnamirim
+c234,Volkswagen,Polo,hatch,2025,10300,86500,manual,flex,13.0,300,vermelho,Mossoró
+c235,Volkswagen,Polo,hatch,2025,9600,98500,automatic,flex,13.4,300,prata,Parnamirim
+c236,Chevrolet,Onix Plus,sedan,2021,66800,71000,automatic,flex,13.5,469,preto,Parnamirim
+c237,Chevrolet,Onix Plus,sedan,2021,70400,73000,automatic,flex,13.0,469,prata,Natal
+c238,Chevrolet,Onix Plus,sedan,2022,59900,83500,automatic,flex,12.5,469,cinza,Mossoró
+c239,Chevrolet,Onix Plus,sedan,2024,20400,91000,manual,flex,12.3,469,branco,Macaíba
+c240,Chevrolet,Onix Plus,sedan,2024,32300,86500,automatic,flex,12.8,469,vermelho,Parnamirim
+c241,Chevrolet,Onix Plus,sedan,2024,27100,102000,automatic,flex,13.1,469,vermelho,Macaíba
+c242,Fiat,Cronos,sedan,2018,93000,54500,automatic,flex,12.9,525,cinza,Parnamirim
+c243,Fiat,Cronos,sedan,2018,116900,49500,automatic,flex,12.4,525,azul,São Gonçalo do Amarante
+c244,Fiat,Cronos,sedan,2019,97800,64000,automatic,flex,12.5,525,cinza,Parnamirim
+c245,Fiat,Cronos,sedan,2020,93200,66000,automatic,flex,12.4,525,prata,Macaíba
+c246,Fiat,Cronos,sedan,2020,75400,59500,manual,flex,12.5,525,prata,Parnamirim
+c247,Fiat,Cronos,sedan,2020,69200,57500,automatic,flex,12.7,525,preto,Natal
+c248,Fiat,Cronos,sedan,2020,71800,67500,automatic,flex,12.3,525,prata,Natal
+c249,Fiat,Cronos,sedan,2021,61400,72000,automatic,flex,12.6,525,prata,Macaíba
+c250,Fiat,Cronos,sedan,2021,78200,65000,automatic,flex,12.6,525,prata,Parnamirim
+c251,Fiat,Cronos,sedan,2021,63400,69000,automatic,flex,12.3,525,vermelho,Macaíba
+c252,Fiat,Cronos,sedan,2022,57100,82500,automatic,flex,12.7,525,cinza,Mossoró
+c253,Fiat,Cronos,sedan,2023,47200,80000,automatic,flex,11.8,525,cinza,Natal
+c254,Fiat,Cronos,sedan,2023,38400,81000,manual,flex,12.6,525,prata,Macaíba
+c255,Fiat,Cronos,sedan,2023,27600,86000,automatic,flex,12.2,525,cinza,Mossoró
+c256,Fiat,Cronos,sedan,2024,23800,88500,automatic,flex,12.6,525,branco,Natal
+c257,Fiat,Cronos,sedan,2024,24700,77000,manual,flex,12.4,525,cinza,Mossoró
+c258,Fiat,Cronos,sedan,2024,21100,90000,automatic,flex,12.6,525,preto,Parnamirim
+c259,Fiat,Cronos,sedan,2025,13300,89000,automatic,flex,12.5,525,cinza,Parnamirim
+c260,Honda,City,sedan,2016,127200,68000,automatic,flex,13.2,519,prata,Natal
+c261,Honda,City,sedan,2016,107500,65000,automatic,flex,12.6,519,prata,Parnamirim
+c262,Honda,City,sedan,2016,131800,58500,automatic,flex,12.3,519,azul,Natal
+c263,Honda,City,sedan,2016,144400,57000,manual,flex,12.8,519,preto,Macaíba
+c264,Honda,City,sedan,2017,99400,64500,automatic,flex,12.3,519,cinza,São Gonçalo do Amarante
+c265,Honda,City,sedan,2019,72200,68000,manual,flex,12.9,519,vermelho,Natal
+c266,Honda,City,sedan,2019,99400,75000,automatic,flex,12.4,519,vermelho,Natal
+c267,Honda,City,sedan,2020,87600,85500,automatic,flex,12.2,519,branco,Macaíba
+c268,Honda,City,sedan,2022,44700,102500,automatic,flex,12.4,519,azul,Mossoró
+c269,Honda,City,sedan,2025,10100,119000,automatic,flex,12.3,519,azul,Natal
+c270,Hyundai,HB20S,sedan,2015,163200,46500,automatic,flex,13.0,475,prata,Natal
+c271,Hyundai,HB20S,sedan,2015,124800,47500,automatic,flex,12.6,475,cinza,São Gonçalo do Amarante
+c272,Hyundai,HB20S,sedan,2016,138700,49000,automatic,flex,13.2,475,cinza,Natal
+c273,Hyundai,HB20S,sedan,2017,94700,54000,automatic,flex,12.6,475,preto,Parnamirim
+c274,Hyundai,HB20S,sedan,2019,87300,65500,automatic,flex,12.0,475,preto,São Gonçalo do Amarante
+c275,Hyundai,HB20S,sedan,2019,99300,65500,automatic,flex,12.2,475,prata,São Gonçalo do Amarante
+c276,Hyundai,HB20S,sedan,2020,72700,72000,automatic,flex,12.4,475,vermelho,Mossoró
+c277,Hyundai,HB20S,sedan,2020,86600,68500,automatic,flex,12.5,475,preto,Parnamirim
+c278,Hyundai,HB20S,sedan,2021,67000,59500,manual,flex,13.2,475,preto,São Gonçalo do Amarante
+c279,Hyundai,HB20S,sedan,2021,63700,71500,automatic,flex,12.7,475,prata,Macaíba
+c280,Hyundai,HB20S,sedan,2022,56400,83000,automatic,flex,12.0,475,azul,Natal
+c281,Hyundai,HB20S,sedan,2023,45900,86000,automatic,flex,12.9,475,vermelho,São Gonçalo do Amarante
+c282,Hyundai,HB20S,sedan,2024,29400,88500,automatic,flex,12.6,475,azul,Macaíba
+c283,Hyundai,HB20S,sedan,2025,16900,91500,automatic,flex,13.1,475,azul,Natal
+c284,Nissan,Versa,sedan,2021,63600,83000,automatic,flex,12.8,482,prata,Parnamirim
+c285,Nissan,Versa,sedan,2022,57100,77000,manual,flex,12.6,482,preto,Natal
+c286,Nissan,Versa,sedan,2022,55500,81500,manual,flex,11.8,482,vermelho,Parnamirim
+c287,Nissan,Versa,sedan,2022,55100,82000,automatic,flex,13.0,482,preto,Macaíba
+c288,Nissan,Versa,sedan,2022,60400,83500,automatic,flex,12.5,482,vermelho,Parnamirim
+c289,Nissan,Versa,sedan,2023,36800,84000,manual,flex,12.3,482,branco,Natal
+c290,Nissan,Versa,sedan,2023,35000,94000,automatic,flex,12.4,482,cinza,Natal
+c291,Nissan,Versa,sedan,2023,48400,85500,automatic,flex,12.7,482,azul,Natal
+c292,Nissan,Versa,sedan,2024,13200,106500,automatic,flex,12.6,482,cinza,Natal
+c293,Nissan,Versa,sedan,2024,30100,88500,automatic,flex,12.8,482,preto,Macaíba
+c294,Nissan,Versa,sedan,2025,15600,107000,automatic,flex,13.2,482,azul,São Gonçalo do Amarante
+c295,Nissan,Versa,sedan,2025,9200,106000,automatic,flex,11.9,482,vermelho,Parnamirim
+c296,Nissan,Versa,sedan,2025,10400,113500,automatic,flex,12.7,482,cinza,Parnamirim
+c297,Toyota,Corolla,sedan,2015,161500,74500,automatic,flex,11.3,470,preto,São Gonçalo do Amarante
+c298,Toyota,Corolla,sedan,2016,159700,71000,manual,flex,11.9,470,vermelho,Natal
+c299,Toyota,Corolla,sedan,2017,135400,84500,automatic,flex,11.1,470,branco,Macaíba
+c300,Toyota,Corolla,sedan,2017,121000,80000,automatic,flex,11.9,470,vermelho,Natal
+c301,Toyota,Corolla,sedan,2019,97300,94000,automatic,flex,11.9,470,vermelho,Natal
+c302,Toyota,Corolla,sedan,2021,53700,118000,automatic,flex,11.8,470,prata,Macaíba
+c303,Toyota,Corolla,sedan,2022,44000,114000,manual,flex,11.2,470,prata,Macaíba
+c304,Toyota,Corolla,sedan,2023,36000,119000,manual,flex,11.4,470,branco,Natal
+c305,Toyota,Corolla,sedan,2025,15500,132500,manual,flex,11.9,470,cinza,Natal
+c306,Volkswagen,Virtus,sedan,2018,101000,59000,manual,flex,11.8,521,cinza,Parnamirim
+c307,Volkswagen,Virtus,sedan,2019,108900,74500,automatic,flex,13.0,521,prata,Mossoró
+c308,Volkswagen,Virtus,sedan,2020,75600,74000,automatic,flex,12.7,521,branco,Natal
+c309,Volkswagen,Virtus,sedan,2020,55600,74500,manual,flex,11.7,521,prata,Parnamirim
+c310,Volkswagen,Virtus,sedan,2021,61200,73000,manual,flex,12.0,521,azul,Mossoró
+c311,Volkswagen,Virtus,sedan,2022,47800,93500,automatic,flex,12.3,521,azul,Parnamirim
+c312,Volkswagen,Virtus,sedan,2022,53900,83500,automatic,flex,11.9,521,vermelho,Parnamirim
+c313,Volkswagen,Virtus,sedan,2022,50500,89000,automatic,flex,12.3,521,preto,Natal
+c314,Volkswagen,Virtus,sedan,2023,37400,100500,automatic,flex,12.2,521,cinza,Natal
+c315,Volkswagen,Virtus,sedan,2024,26900,99000,manual,flex,11.9,521,vermelho,Natal
+c316,Volkswagen,Virtus,sedan,2025,9400,111000,automatic,flex,12.1,521,preto,São Gonçalo do Amarante
+c317,Volkswagen,Virtus,sedan,2025,19400,101500,automatic,flex,11.5,521,azul,Natal
+c318,Volkswagen,Virtus,sedan,2025,12600,105000,automatic,flex,12.9,521,branco,Parnamirim
+c319,Volkswagen,Virtus,sedan,2025,13400,117500,automatic,flex,12.0,521,prata,Natal
+c320,Volkswagen,Virtus,sedan,2025,18000,115000,automatic,flex,13.3,521,vermelho,Natal

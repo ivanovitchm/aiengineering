@@ -140,3 +140,20 @@ Repository for the **Machine Learning-Based Systems Design** course, offered as 
   - Builds HyDE, hybrid retrieval, reranking, and CRAG one function at a time, with guided implementation tasks.
   - Tunes two technique families and analyzes accuracy differences, unstable questions, and cost-benefit trade-offs.
   - Produces a seven-variant comparison, supporting CSVs, and a two-page report explaining the results.
+
+**Week 07**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week07/lesson10.pdf) **AI Agents I: from models that talk to systems that act**
+  - Why agents: what a model alone cannot do, workflows vs. agents, and the papers behind the agent era (ReAct, Toolformer, Generative Agents).
+  - What an agent is: the agentic loop, the five components from *AI Agents in Action*, the classic map by Lilian Weng, and architectures from single agent to orchestrator.
+  - Tools: why they exist, the anatomy of a tool schema, why descriptions are prompts, and how tool calling works under the hood.
+  - ReAct, Plan-and-Execute, Reflexion, and the cautionary tale of AutoGPT.
+  - Launch of Project 2: conversational shopping assistants in four domains, built in five phases.
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week07/lesson10.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week07/lesson10.ipynb) **An agent from scratch, call by call**
+  - One request ("a family SUV for around R$ 80k"), the same model and the same system prompt, over a synthetic stock of 320 used cars in Natal (`cars.csv`).
+  - Example 1, without tools: the model can only describe how to search, and performs nothing.
+  - Example 2, with tools, step by step: the tool schema the model reads, the raw `tool_calls` JSON it returns, the function we execute, and the `tool` message that carries the result back.
+  - Three tools from the slides (search, details, compare), where the comparison is computed by the tool and not guessed by the model.
+  - The full agentic loop in pure Python + Ollama, with a numbered trace of every intermediate call and a request that takes three turns (search, then compare).
+  - Classroom demo (in Portuguese) that runs top to bottom on Google Colab. A single setup cell checks for Ollama, the server and the model, and installs only what is missing.

@@ -155,3 +155,19 @@ Repository for the **Machine Learning-Based Systems Design** course, offered as 
   - Three tools (search, details, compare), where the comparison is computed by the tool and not guessed by the model.
   - The full agentic loop in pure Python + Ollama, with a numbered trace of every intermediate call and a request that takes three turns (search, then compare).
   - Classroom demo (in Portuguese) that runs top to bottom on Google Colab. A single setup cell checks for Ollama, the server and the model, and installs only what is missing.
+
+**Week 08**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week08/lesson11.pdf) **AI Agents II: MCP, one standard plug between AI applications and the world**
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=Zld_zHElmkc) Why a protocol: the tools from Lesson 10 multiplied, the M×N integration problem, the USB-C idea, and how MCP went from an Anthropic release to an open industry standard.
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tJ3mB-k2Tes) Architecture: the three roles (host, client, server), one client per server, who does what, and the two layers (transport and JSON-RPC data).
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=qmR2qUAxYbc) The protocol: JSON-RPC 2.0 messages captured from a real server, protocol vs. execution errors, stdio and Streamable HTTP, and the stateless 2026-07-28 revision that drops the initialize handshake.
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=xugHBzAvdy4) Primitives: tools (the model decides), resources (the application decides), prompts (the user decides), tool annotations, and elicitation on the client side.
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week08/lesson11.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week08/lesson11.ipynb) **The Lesson 10 tools, now behind a protocol**
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=IT-ojBdRZDI) Building an MCP server with FastMCP, testing it without an LLM in the MCP Inspector, and plugging the same server into any host.
+  - Part 1: the three tools from Lesson 10 become a `server.py` with tools, a resource and a prompt; the JSON Schema comes from type hints and docstrings.
+  - Part 2: `fastmcp list` and `fastmcp call` inspect and call the server with no model involved, as the MCP Inspector does.
+  - Part 3: raw JSON-RPC over stdio, written by hand: `server/discover`, `tools/list`, `tools/call`, both kinds of error, and why `initialize` is rejected.
+  - Parts 4 and 5: the FastMCP Python client, then the Lesson 10 agent (Ollama + `qwen2.5:3b`) taking its tools from the server, with the same answer (`c082`, `c081`, `c109`).
+  - Classroom demo (in Portuguese) that runs top to bottom on Google Colab. A single setup cell installs FastMCP, downloads the stock and prepares Ollama, installing only what is missing.

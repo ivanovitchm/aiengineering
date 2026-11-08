@@ -171,3 +171,19 @@ Repository for the **Machine Learning-Based Systems Design** course, offered as 
   - Part 3: raw JSON-RPC over stdio, written by hand: `server/discover`, `tools/list`, `tools/call`, both kinds of error, and why `initialize` is rejected.
   - Parts 4 and 5: the FastMCP Python client, then the Lesson 10 agent (Ollama + `qwen2.5:3b`) taking its tools from the server, with the same answer (`c082`, `c081`, `c109`).
   - Classroom demo (in Portuguese) that runs top to bottom on Google Colab. A single setup cell installs FastMCP, downloads the stock and prepares Ollama, installing only what is missing.
+
+**Week 09**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week09/lesson12.pdf) **AI Agents III: multi-agent systems**
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=aS14_YxR5iA) Why more than one agent: who checks the text the model writes, good reasons to split, the price of splitting, Cognition vs. Anthropic, and the MAST taxonomy of multi-agent failures.
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=_7UXx0HNKbw) Patterns: pipeline, routing, parallelization, supervisor + specialists, and generator + verifier, sorted by one question: who decides the next step?
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=4Si6GyVouEM) Frameworks: LangGraph (the loop as a graph, checkpointer, human in the loop, streaming) and CrewAI (sequential and hierarchical crews), both on the same MCP server, and a trace of the supervisor in each.
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=oN-f4roCqZ0) Measuring: trajectories, eight questions with answers from the data, automatic checks vs. an LLM judge, the numbers for both frameworks, judge biases and pass^k, and why to start with one agent.
+  - [![YouTube](https://img.shields.io/badge/-Video-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=FewYeuW9Mbg) Agents talking to agents: MCP vs. A2A, the four A2A concepts, an Agent Card for the car agent, the task lifecycle, and the references of the lesson.
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/aiengineering/blob/main/lessons/week09/lesson12.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanovitchm/aiengineering/blob/main/lessons/week09/lesson12.ipynb) **One problem, three architectures, two frameworks, measured**
+  - Part 1: the Lesson 11 agent rewritten in LangGraph, with the state, two nodes and a conditional edge, taking its tools from the same `server.py` through MCP.
+  - Part 2: generator + verifier. The code looks up every car the answer cites, and an objection only counts if it quotes the evidence; it fixes "c082 is the most economical".
+  - Part 3: a supervisor that routes work to a searcher and a comparer, and a writer that answers from their reports.
+  - Part 4: eight questions with answers computed from `cars.csv`, automatic checks of the answer and the trajectory, and an LLM judge with a reference, for accuracy, model calls and seconds.
+  - Part 5: the same three architectures in CrewAI, traced through CrewAI events and measured with the same questions and graders.
